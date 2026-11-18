@@ -1,0 +1,5 @@
+# Block direct web access to internal files (Apache 2.4 / XAMPP).
+Options -Indexes
+<FilesMatch "(^(config\.local\.php|config\.php|db\.php|tests\.php)$)|(\.(sql|bat|md|ps1)$)|(^xampp-path\.txt$)">
+    Require all denied
+</FilesMatch>
