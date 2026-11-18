@@ -1,4 +1,4 @@
-# HavenHostel — Hostel Management System (Product 20)
+# HavenHostel — Hostel Management System 
 
 A polished, responsive hostel portal built using **PHP 8+, MySQL/MariaDB, HTML, CSS and JavaScript**. It follows the supplied Placement Assistant project's local XAMPP/PHP/MySQL packaging approach, including a database schema, secure session login, role checks, CSRF protection, prepared SQL statements, an installer, smoke checks and a one-click Windows launcher.
 
